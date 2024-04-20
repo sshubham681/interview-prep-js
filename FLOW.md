@@ -17,4 +17,5 @@
 # Async Defer
 # Date
 # setTimeout
+# Caching/Memoized
 # Output Based
