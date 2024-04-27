@@ -1,3 +1,5 @@
+// https://www.geeksforgeeks.org/javascript-output-based-interview-questions/
+
 // ------- q1
 // let x = {
 //   b: 1,
