@@ -11,7 +11,7 @@
 // ------- q2
 // let x = '{"b": 1, "c": 2}'
 // let y = JSON.parse(x)
-// console.log(typeof y);
+// console.log(typeof y)
 
 // ------- q3
 // let x = 0.1 + 0.2
@@ -19,13 +19,13 @@
 // console.log(x==y)
 
 // ------- q4
-// let x = 1 > 2 > 3;
+// let x = 1 > 2 > 3
 // console.log(x)
 
 // ------- q5
 // let x = false
 // let y = "0"
-// let z = 0;
+// let z = 0
 // console.log(x == y)
 // console.log(x == z)
 
@@ -34,7 +34,7 @@
 // console.log(Boolean(x))
 
 // ------- q7
-// let x = Infinity;
+// let x = Infinity
 // console.log(typeof x)
 
 // ------- q8
@@ -164,18 +164,18 @@
 // ------- q29
 // let x = [1,2,3,5]
 // x.forEach((e)=> {
-//   if(e>2 && e<5) return;
+//   if(e>2 && e<5) return
 //   console.log(e)
 // })
 
 // ------- q30
-// let x = 10;
-// let y = 20;
+// let x = 10
+// let y = 20
 // console.log("total = " + x + y)
 
 // ------- q31
-// let x = 5;
-// let y = 6;
+// let x = 5
+// let y = 6
 // x += x > y ? x : y
 // console.log(x)
 
@@ -247,21 +247,21 @@
 // console.log(y)
 
 // ------- q44
-// let x = 1;
+// let x = 1
 // console.log(x + x++)
 
 // ------- q45
 // let x = [1]
-// let y = x + 1;
+// let y = x + 1
 // console.log(y)
 
 // ------- q46
-// let x = 7;
+// let x = 7
 // let y = !!x && !!!x
 // console.log(y)
 
 // ------- q47
-// let a = 10;
+// let a = 10
 // let b = (a, a + 10)
 // console.log(b)
 
@@ -305,7 +305,7 @@
 // console.log(x)
 
 // ------- q55
-// let x = 0;
+// let x = 0
 // let y = "0"
 // console.log(false == x)
 // console.log(false == y)
@@ -334,7 +334,6 @@
 // let x = (()=> {
 //   return 9
 // })()
-
 // console.log(x)
 
 // ------- q61
